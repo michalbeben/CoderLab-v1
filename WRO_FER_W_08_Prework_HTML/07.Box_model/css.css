@@ -1,0 +1,9 @@
+.link{
+    color: red;
+    border: 1px solid red;
+    width: 500px;
+}
+table, tr, td, th{
+    border: 1px solid black;
+    padding: 5px 3px;
+}

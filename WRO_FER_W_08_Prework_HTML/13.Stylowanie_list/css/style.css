@@ -1,0 +1,14 @@
+.squareList{
+    list-style-type: square;
+}
+.menulist{
+    background-color: yellow;
+    height: 50px;
+
+}
+li1{
+    list-style-type: none;
+    width: 150px;
+    float: left;
+    line-height: 50px;
+}

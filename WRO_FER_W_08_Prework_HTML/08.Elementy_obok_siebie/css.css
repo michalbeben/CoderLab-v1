@@ -1,0 +1,18 @@
+.box{
+    display:block;
+    width: 100px;
+    height: 100px;
+    border:1px solid black;
+    display: inline-block;
+}
+.clearfix {
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    display: inline-block;
+}
+p1,p2{
+    width: 80px;
+    border:2px dotted red;
+    display: inline-block;
+} 

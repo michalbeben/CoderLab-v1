@@ -1,0 +1,35 @@
+.niebieski{
+    color: blue;
+}
+.różowy{
+   color: pink;
+}
+.zielony{
+    color: green;
+}
+.czarny{
+    color: black;
+}
+p1{
+    background-color: hsl(20,45%,50%);
+}
+p2{
+    background-color: #b3d4fc;
+}
+p3{
+    background-color: rgb(52,70,20);
+}
+
+.container{
+    background: green;
+    width: 200px;
+}
+.first{
+    width: 50%;
+    background-color: brown;
+}
+.second{
+    width: 10em;
+    background-color: cornflowerblue;
+
+}
